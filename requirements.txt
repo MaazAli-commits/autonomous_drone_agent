@@ -1,0 +1,14 @@
+fastapi
+uvicorn
+sqlalchemy>=2.0
+pydantic
+langchain
+langchain-core
+langchain-groq
+psycopg2-binary
+python-dotenv
+streamlit
+ultralytics
+opencv-python
+pillow
+pandas

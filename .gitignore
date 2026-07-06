@@ -1,0 +1,13 @@
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.env
+*.db
+*.sqlite3
+.vscode/
+.DS_Store
+Thumbs.db
+app/vision/outputs/
+reports/
+*.pt
